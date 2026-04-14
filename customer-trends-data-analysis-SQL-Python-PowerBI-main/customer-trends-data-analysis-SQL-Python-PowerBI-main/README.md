@@ -8,7 +8,7 @@ The project simulates a real-world data analyst role, covering all stages from d
 
 ---
 
-## 🎯 Objectives
+ 🎯 Objectives
 
 * Analyze customer purchase behavior
 * Identify trends and patterns in shopping data
@@ -17,7 +17,7 @@ The project simulates a real-world data analyst role, covering all stages from d
 
 ---
 
-## 🛠️ Tools & Technologies Used
+ 🛠️ Tools & Technologies Used
 
 * **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 * **SQL** (Data querying and analysis)
@@ -26,34 +26,34 @@ The project simulates a real-world data analyst role, covering all stages from d
 
 ---
 
-## 📂 Project Workflow
+ 📂 Project Workflow
 
-### 1️⃣ Data Cleaning & Preparation (Python)
+1️⃣ Data Cleaning & Preparation (Python)
 
 * Loaded raw dataset
 * Handled missing values and duplicates
 * Performed exploratory data analysis (EDA)
 
-### 2️⃣ Data Analysis (SQL)
+ 2️⃣ Data Analysis (SQL)
 
 * Created database and imported cleaned data
 * Wrote SQL queries to answer business questions
 * Analyzed customer segments, revenue, and trends
 
-### 3️⃣ Data Visualization (Power BI)
+ 3️⃣ Data Visualization (Power BI)
 
 * Built interactive dashboard
 * Visualized key KPIs and patterns
 * Enabled filter-based analysis for better insights
 
-### 4️⃣ Reporting & Insights
+ 4️⃣ Reporting & Insights
 
 * Summarized findings
 * Provided business recommendations
 
 ---
 
-## 📊 Key Insights
+📊 Key Insights
 
 * Identified top-performing product categories
 * Analyzed customer spending behavior
@@ -62,7 +62,7 @@ The project simulates a real-world data analyst role, covering all stages from d
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```
 ├── Customer_Shopping_Behavior_Analysis.ipynb
@@ -75,7 +75,7 @@ The project simulates a real-world data analyst role, covering all stages from d
 
 ---
 
-## ▶️ How to Run the Project
+▶️ How to Run the Project
 
 1. Clone the repository
 
@@ -91,7 +91,7 @@ git clone https://github.com/yourusername/customer-trends-analysis.git
 
 ---
 
-## 💡 Conclusion
+ 💡 Conclusion
 
 This project demonstrates how data analytics can be used to extract meaningful insights from raw data. By combining Python, SQL, and Power BI, it provides a complete understanding of customer behavior and supports better business decision-making.
 
