@@ -97,19 +97,6 @@ This project demonstrates how data analytics can be used to extract meaningful i
 
 ---
 
-## 🙌 Acknowledgment
 
-This project is inspired by real-world data analytics workflows and adapted for learning and portfolio purposes.
 
----
-
-## 📬 Contact
-
-* Name: Your Name
-* Email: [your@email.com](mailto:your@email.com)
-* LinkedIn: your-linkedin
-
----
-
-⭐ If you like this project, feel free to star the repository!
 
